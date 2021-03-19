@@ -17,9 +17,9 @@
     "ios": {
       "supportsTablet": true,
       "buildNumber": "2.0.0",
-      "bundleIdentifier": "com.fingertiptravel.fingertiptravelapp",
+      "bundleIdentifier": "com.knoow-test.knoow-test",
       "config": {
-        "googleMapsApiKey": "AIzaSyBigdbXXoJ8RIKaJe7D1F_eG8vItGlVTMg"
+        "googleMapsApiKey": "AIzaSyCN5EH6xd-k1oZDFR3-KAvipTpfs0ZxNlY"
       }
     },
     "android": {
